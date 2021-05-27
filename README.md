@@ -3,7 +3,8 @@ Frontend Developer.
 
 
 🌍 My social networks!
-Luciano dii Souza | Linkedin	Luciano dii Souza | Instagram
+[Linkedin](https://www.linkedin.com/in/teodoro-morato-785ab5b5/) | [Instagram](https://www.instagram.com/teodoro_morato/)
+
 
 🔧 Languages and Tools:
 HTML5
