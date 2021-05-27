@@ -1,6 +1,6 @@
 <h1>Hi 👋 </br>
  I'm Teodoro Morato</h1>
-<h3>Frontend Developer.</h3></br>
+<h3>Frontend Developer</h3></br>
 
 
 🌍 My social networks! </br></br>
@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/teodoro_morato/">  <img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"> </a> </br></br>
 
 
-🔧 Languages and Tools:
+:rocket: :computer: Technologies & Tools:
 * HTML5
 * CSS3
 * Laravel
