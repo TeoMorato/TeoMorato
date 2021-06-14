@@ -15,5 +15,5 @@
 * React
 * ReactNative
 * Adobe Ps, Ai
-* Excel e Power BI
+* Excel and Power BI
 * MSProject
